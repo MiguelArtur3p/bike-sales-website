@@ -64,8 +64,11 @@ function eventosGaleria(img) {
   img.addEventListener("click", trocarImagem);
 }
 galeria.forEach(eventosGaleria);
+<<<<<<< HEAD
 
 if(window.SimpleAnime){
 new SimpleAnime();
 }
 
+=======
+>>>>>>> ffed3f2f733e270d3d3ed9a8df89d9f7d932460f
