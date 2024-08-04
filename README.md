@@ -1,4 +1,4 @@
-## Bike Sales Website
+## PedalPro Website
 bike-sales-website é um site estático dedicado à venda de bicicletas, projetado para oferecer uma experiência de compra agradável e informativa. Desenvolvido com HTML, CSS e JavaScript, o site é estruturado para exibir de forma eficaz os produtos e permitir uma navegação intuitiva.
 
 ## Funcionalidades
